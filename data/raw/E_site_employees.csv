@@ -1,0 +1,401 @@
+employee_id,full_name,department,job_level,hire_date,base_salary,employment_type
+EMP0001,Rafid Marpaung,Mining Ops,Operator,2023-07-24,4068000,PKWT
+EMP0002,Agustina Agustina Maharani,HRGA,Superintendent,2015-11-26,16954000,PKWTT
+EMP0003,Rama Airlangga,Hauling,Operator,2014-01-01,3737000,PKWTT
+EMP0004,Kacung Kacung Hidayanto,HR & GA,Staff,2024-11-09,4833000,PKWTT
+EMP0005,Hutagalung Lega,Hauling,Operator,2019-10-17,4160000,PKWTT
+EMP0006,Mulyani Dewi,Fin & Acc,Staff,2020-08-03,7574000,PKWTT
+EMP0007,Eja Eja Lazuardi,HR & GA,Supervisor,2022-07-04,7638000,PKWT
+EMP0008,Keisha Keisha Aryani,Mining Operations,Supervisor,2020-05-27,8671000,PKWT
+EMP0009,Radika Radika Tarihoran,HSE,Operator,2018-10-04,5499000,PKWT
+EMP0010,Hasanah Bella,Mining Operations,Operator,2012-07-11,4733000,PKWT
+EMP0011,Zalindra Nurlaela,Mining Ops,Operator,2013-11-19,5074000,PKWTT
+EMP0012,Salsabilla Yani,Haul,Operator,2024-09-11,4772000,PKWT
+EMP0013,Wira Situmorang,Maintenance,Supervisor,2020-02-12,10950000,PKWTT
+EMP0014,Suryatmi Olivia,HR & GA,Staff,2016-09-24,4549000,PKWTT
+EMP0015,Samiah Putri,Plant & Maintenance,Staff,2014-07-02,5663000,PKWT
+EMP0016,Anjani Dalima,Mining Ops,Operator,2020-09-16,3720000,PKWTT
+EMP0017,Irawati Rachmawati,Hauling,Operator,2018-03-10,4252000,PKWTT
+EMP0018,Dirja Dirja Alamsyah,Hauling,Operator,2021-06-12,4672000,PKWTT
+EMP0019,Wicaksono Darimin,Mining Operations,Operator,2021-11-14,4280000,PKWT
+EMP0020,Nasyiah Nilam,Hauling,Operator,2016-05-07,4414000,PKWT
+EMP0021,Mahendra Edison,Mining Operations,Manager,2014-07-02,21218000,PKWTT
+EMP0022,Cahya Cahya Mahardika,HAULING ,Operator,2012-06-13,3948000,PKWT
+EMP0023,Anjani Wulandari,Mining Operations,Operator,2015-09-13,4959000,PKWTT
+EMP0024,Juwita Restu,Plant & Maintenance,Supervisor,2018-05-02,9381000,PKWT
+EMP0025,Hendri Hendri Lazuardi,Mining Ops,Operator,2015-04-10,4169000,PKWTT
+EMP0026,Unggul Wibowo,Hauling,Operator,2021-01-03,4576000,PKWTT
+EMP0027,Dipa Herlambang,Hauling,Staff,2019-11-05,5432000,PKWTT
+EMP0028,Bagaskara Dadap,Hauling,Operator,2017-03-15,5243000,PKWTT
+EMP0029,Pratama Cawisadi,Hauling,Operator,2024-01-06,4481000,PKWTT
+EMP0030,Ajeng Ajeng Maryati,Mining Operations,Operator,2014-02-12,3569000,PKWT
+EMP0031,Pranowo Makara,HAULING ,Operator,2021-03-16,4312000,PKWTT
+EMP0032,Jelita Sherly,Hauling,Superintendent,2012-01-11,18115000,PKWTT
+EMP0033,Anandya Ratih,HR & GA,Superintendent,2022-10-03,17234000,PKWT
+EMP0034,Heru Simbolon,Plant & Maintenance,Operator,2014-12-31,5045000,PKWTT
+EMP0035,Paulin Farida,Hauling,Operator,2020-11-21,4876000,PKWTT
+EMP0036,Zulaika Anita,Hauling,Operator,2020-03-21,4499000,PKWTT
+EMP0037,Prayoga Wardi,HR & GA,Supervisor,2024-12-13,8258000,PKWTT
+EMP0038,Lintang Wulandari,Haul,Operator,2022-09-11,3869000,PKWT
+EMP0039,Winarno Martana,Hauling,Operator,2013-01-08,4057000,PKWTT
+EMP0040,Mustika Qori,Plant & Maintenance,Operator,2012-05-12,4180000,PKWTT
+EMP0041,Yuliana Yuliana Anjani,Hauling,Operator,2013-09-10,4387000,PKWTT
+EMP0042,Aryani Tri,Mining Operations,Operator,2020-01-29,4423000,PKWTT
+EMP0043,Mahdi Mahdi Ardana,mining operation,Operator,2024-06-02,5017000,PKWTT
+EMP0044,Sabrina Sabrina Wijayanti,Hauling,Operator,2016-07-11,3776000,PKWTT
+EMP0045,Julia Azizah,Plant & Maintenance,Operator,2016-03-09,5048000,PKWTT
+EMP0046,Hesti Hesti Juwita,Hauling,Operator,2018-06-06,4173000,PKWTT
+EMP0047,Zulfa Pratiwi,Hauling,Operator,2013-10-01,4613000,PKWT
+EMP0048,Kayla Rahimah,Plant & Maintenance,Operator,2017-03-06,4668000,PKWTT
+EMP0049,Aryanti Natalia,Mining Operations,Operator,2013-04-27,5009000,PKWTT
+EMP0050,Humaira Humaira Mardhiyah,Plant & Maintenance,Operator,2016-03-06,4083000,PKWT
+EMP0051,Karna Karna Rendra,Mining Operations,Operator,2017-07-03,3814000,PKWT
+EMP0052,Wahyudin Aslijan,Mining Operations,Operator,2018-09-21,3858000,PKWT
+EMP0053,Aisyah Hariyah,Hauling,Supervisor,2017-08-07,8252000,PKWTT
+EMP0054,Artawan Artawan Sabian,Plant & Maintenance,Operator,2022-10-21,4506000,PKWTT
+EMP0055,Amalia Leilani,Finance,Staff,2015-05-24,6093000,PKWTT
+EMP0056,Jatmiko Jatmiko Waskita,Hauling,Operator,2020-01-29,3869000,PKWT
+EMP0057,Aurelia Widya,MINING OPS,Operator,2014-03-06,4693000,PKWTT
+EMP0058,Joko Joko Mustofa,Mining Ops,Operator,2016-06-16,4987000,PKWTT
+EMP0059,Umi Umi Farida,Plant & Maintenance,Operator,2018-06-16,5343000,PKWTT
+EMP0060,Lili Lili Rahmawati,Plant & Maintenance,Operator,2017-12-01,5501000,PKWTT
+EMP0061,Mursita Mursita Yulianto,Plant & Maintenance,Staff,2020-02-24,6793000,PKWT
+EMP0062,Candrakanta Kurniawan,Maintenance,Operator,2023-11-01,3952000,PKWT
+EMP0063,Irsad Irsad Lesmana,Mining Operations,Supervisor,2023-03-07,10620000,PKWTT
+EMP0064,Indah Indah Namaga,Hauling,Operator,2022-02-17,4874000,PKWTT
+EMP0065,Winarno Lanang,Hauling,Staff,2017-10-29,5652000,PKWT
+EMP0066,Winarsih Zalindra,Mining Operations,Operator,2013-10-04,4229000,PKWTT
+EMP0067,Koko Abimanyu,Plant & Maintenance,Operator,2012-02-23,4310000,PKWT
+EMP0068,Tri Habibi,HSE,Staff,2016-07-26,7565000,PKWTT
+EMP0069,Lesmana Bakidin,Plant & Maintenance,Supervisor,2021-08-18,10593000,PKWTT
+EMP0070,Ellis Ramadhani,Plant & Maintenance,Staff,2014-07-09,6196000,PKWT
+EMP0071,Mustika Wasita,Mining Operations,Operator,2014-02-15,4384000,PKWT
+EMP0072,Rayhan Hasta,Plant&Maint,Operator,2023-06-29,4011000,PKWTT
+EMP0073,Faresta Margana,mining operation,Superintendent,2016-08-01,16367000,PKWTT
+EMP0074,Elvina Juwita,HAULING ,Operator,2019-05-22,3722000,PKWTT
+EMP0075,Lestari Puji,Plant & Maintenance,Operator,2019-02-03,5511000,PKWTT
+EMP0076,Hafshah Hafshah Lailasari,Plant & Maintenance,Operator,2016-04-09,4119000,PKWT
+EMP0077,Yunita Yunita Yulianti,Hauling,Staff,2019-03-28,6447000,PKWTT
+EMP0078,Wijaya Darmana,Hauling,Operator,2018-03-04,4491000,PKWT
+EMP0079,Simbolon Darmaji,Mining Operations,Operator,2014-11-09,4209000,PKWTT
+EMP0080,Julia Julia Mahestri,HAULING ,Operator,2013-11-06,4824000,PKWTT
+EMP0081,Fathina Zelaya,Plant & Maintenance,Operator,2014-01-07,4290000,PKWT
+EMP0082,Paulin Paulin Aryanti,Plant & Maintenance,Manager,2015-09-07,26475000,PKWTT
+EMP0083,Oman Winarno,Mining Operations,Operator,2018-05-14,4207000,PKWTT
+EMP0084,Fathina Mila,Hauling,Supervisor,2022-02-23,8830000,PKWTT
+EMP0085,Jamil Oktovian,Fin & Acc,Staff,2019-03-03,4980000,PKWTT
+EMP0086,Abiputra Kalim,MINING OPS,Operator,2017-09-22,4263000,PKWT
+EMP0087,Dyah Astuti,Mining Operations,Staff,2019-04-12,4755000,PKWTT
+EMP0088,Hairyanto Tampubolon,Mining Operations,Operator,2014-06-21,4086000,PKWTT
+EMP0089,Melinda Victoria,Mining Ops,Operator,2015-07-24,4586000,PKWTT
+EMP0090,Nababan Ghani,Mining Operations,Operator,2019-10-05,4937000,PKWTT
+EMP0091,Cemani Cemani Wahyudin,Hauling,Operator,2017-04-28,4721000,PKWT
+EMP0092,Gatra Gatra Prabowo,Finance,Staff,2016-01-21,6642000,PKWTT
+EMP0093,Eman Permadi,Plant & Maintenance,Operator,2017-12-06,4007000,PKWTT
+EMP0094,Zahra Zahra Purwanti,Plant & Maintenance,Operator,2020-07-11,4102000,PKWT
+EMP0095,Prima Rajata,HR & GA,Superintendent,2022-04-30,16373000,PKWTT
+EMP0096,Lestari Diana,Hauling,Staff,2016-08-30,6042000,PKWTT
+EMP0097,Ardiyanti Queen,HSE,Operator,2015-12-05,5955000,PKWTT
+EMP0098,Winarsih Sherly,Mining Operations,Operator,2017-04-14,4486000,PKWTT
+EMP0099,Galih Widodo,Plant & Maintenance,Operator,2013-07-27,5234000,PKWT
+EMP0100,Purnawati Genta,HSE,Supervisor,2020-09-30,12986000,PKWTT
+EMP0101,Kala Sihotang,HSE,Staff,2020-11-03,7354000,PKWTT
+EMP0102,Banawa Banawa Nainggolan,Hauling,Operator,2021-05-01,4912000,PKWT
+EMP0103,Martani Martani Fabian,Hauling,Operator,2024-01-04,4593000,PKWTT
+EMP0104,Asmianto Asmianto Januar,Plant&Maint,Supervisor,2024-03-07,10576000,PKWT
+EMP0105,Handoko Mujur,Mining Operations,Operator,2014-05-11,4849000,PKWTT
+EMP0106,Karen Karen Yulianti,Plant & Maintenance,Operator,2022-04-02,5160000,PKWTT
+EMP0107,Rahardian Enteng,Hauling,Operator,2013-12-26,3883000,PKWTT
+EMP0108,Prasetyo Yahya,HR & GA,Staff,2023-03-20,5432000,PKWTT
+EMP0109,Abimanyu Perkasa,Mining Operations,Operator,2024-10-11,4443000,PKWT
+EMP0110,Tantri Tantri Azizah,HR & GA,Staff,2023-10-08,5487000,PKWTT
+EMP0111,Febi Febi Aqila,HSE,Superintendent,2022-02-09,21983000,PKWTT
+EMP0112,Hana Hana Puspasari,HR & GA,Supervisor,2016-09-09,10659000,PKWT
+EMP0113,Kahyang Ani,Mining Operations,Operator,2012-11-04,3597000,PKWT
+EMP0114,Dwi Dwi Febrianti,Plant & Maintenance,Manager,2018-08-23,31258000,PKWT
+EMP0115,Luwes Luwes Napitupulu,Hauling,Supervisor,2021-07-31,10465000,PKWTT
+EMP0116,Anandya Hana,HSE,Superintendent,2018-07-20,20265000,PKWT
+EMP0117,Prabowo Rama,Mining Ops,Operator,2013-03-16,4136000,PKWTT
+EMP0118,Kamila Kamila Lailasari,HR & GA,Supervisor,2013-03-22,8284000,PKWTT
+EMP0119,Rahmawati Rahmawati Rahayu,Mining Operations,Operator,2017-08-26,4562000,PKWTT
+EMP0120,Rahardian Luis,HAULING ,Operator,2012-04-21,5245000,PKWT
+EMP0121,Kartika Kartika Oktaviani,Hauling,Supervisor,2014-11-22,9624000,PKWT
+EMP0122,Bella Maharani,Finance,Staff,2016-08-04,6226000,PKWTT
+EMP0123,Hassanah Diana,Hauling,Operator,2014-10-29,4827000,PKWTT
+EMP0124,Hamzah Hamzah Gunawan,Plant & Maintenance,Operator,2016-12-10,4308000,PKWTT
+EMP0125,Nuraini Yessi,HSE,Operator,2023-06-11,5132000,PKWTT
+EMP0126,Gaiman Wahyudin,Plant & Maintenance,Operator,2013-06-24,5207000,PKWTT
+EMP0127,Winarno Raden,Hauling,Supervisor,2012-01-22,10218000,PKWTT
+EMP0128,Prayoga Omar,HSE,Operator,2015-09-18,4651000,PKWTT
+EMP0129,Rahayu Rahayu Mardhiyah,Hauling,Operator,2017-11-04,4470000,PKWTT
+EMP0130,Mulyani Linda,Hauling,Superintendent,2024-09-15,16047000,PKWTT
+EMP0131,Kajen Maheswara,Hauling,Operator,2019-08-24,4417000,PKWTT
+EMP0132,Zaenab Zaenab Hasanah,Mining Operations,Staff,2019-02-23,5475000,PKWT
+EMP0133,Marwata Marwata Megantara,Plant & Maintenance,Operator,2014-09-03,4391000,PKWTT
+EMP0134,Aisyah Kahyang,Plant & Maintenance,Operator,2013-05-06,3994000,PKWT
+EMP0135,Samsul Samsul Prasetya,Plant & Maintenance,Operator,2013-03-19,4048000,PKWTT
+EMP0136,Icha Nurlaela,HR & GA,Supervisor,2016-12-03,9330000,PKWTT
+EMP0137,Clara Aryanti,Mining Operations,Operator,2013-02-14,4524000,PKWTT
+EMP0138,Usyi Usyi Amanta,mining operation,Operator,2024-02-11,3679000,PKWT
+EMP0139,Wastuti Wani,Haul,Operator,2019-04-14,4914000,PKWTT
+EMP0140,Hesti Hesti Puspasari,Hauling,Operator,2023-07-10,4830000,PKWT
+EMP0141,Adhitama Karna,HAULING ,Operator,2019-06-03,4620000,PKWT
+EMP0142,Rina Rina Rahmawati,Hauling,Operator,2020-08-06,5230000,PKWT
+EMP0143,Mumpuni Waluyo,Hauling,Operator,2021-05-01,4553000,PKWT
+EMP0144,Sinaga Balangga,Hauling,Operator,2020-01-24,4130000,PKWTT
+EMP0145,Bakiono Fabian,Mining Operations,Operator,2015-02-19,3969000,PKWT
+EMP0146,Melinda Melinda Lailasari,Mining Ops,Operator,2015-02-26,4636000,PKWTT
+EMP0147,Ina Ina Mandasari,Hauling,Operator,2016-01-29,5236000,PKWTT
+EMP0148,Gading Gading Yanuar,Hauling,Operator,2016-02-16,4719000,PKWTT
+EMP0149,Uwais Cagak,Mining Ops,Operator,2019-06-10,4301000,PKWTT
+EMP0150,Fara Winarsih,Plant&Maint,Operator,2023-02-01,4507000,PKWT
+EMP0151,Dodo Pranowo,Hauling,Operator,2020-06-29,4504000,PKWT
+EMP0152,Lili Lili Safitri,Finance,Staff,2012-11-10,5775000,PKWT
+EMP0153,Makara Suwarno,Plant & Maintenance,Operator,2018-10-10,5171000,PKWT
+EMP0154,Wahyudin Karma,Mining Operations,Operator,2021-04-09,4516000,PKWT
+EMP0155,Juli Padmasari,Finance,Superintendent,2013-07-12,17495000,PKWTT
+EMP0156,Firgantoro Darmaji,Plant & Maintenance,Operator,2024-08-06,4997000,PKWTT
+EMP0157,Ani Ani Anggraini,mining operation,Operator,2020-05-29,4712000,PKWTT
+EMP0158,Hardi Hardi Setiawan,Hauling,Supervisor,2012-01-31,7996000,PKWT
+EMP0159,Situmorang Rafid,HAULING ,Operator,2020-06-01,4397000,PKWTT
+EMP0160,Aulia Fujiati,HRGA,Manager,2017-05-16,25659000,PKWT
+EMP0161,Lestari Anjani,HSE,Operator,2017-01-21,6256000,PKWTT
+EMP0162,Bella Purnawati,MINING OPS,Operator,2022-10-02,4239000,PKWTT
+EMP0163,Suryatmi Yunita,Hauling,Operator,2017-09-10,5162000,PKWT
+EMP0164,Hasanah Pratiwi,Mining Operations,Supervisor,2023-07-22,10907000,PKWTT
+EMP0165,Jaya Waluyo,Mining Operations,Supervisor,2021-05-14,9344000,PKWTT
+EMP0166,Rahmawati Rahmawati Purnawati,Plant & Maintenance,Operator,2019-04-14,4637000,PKWTT
+EMP0167,Edison Edison Nashiruddin,Hauling,Staff,2018-08-15,6156000,PKWT
+EMP0168,Haikal Damu,Hauling,Operator,2017-01-20,5027000,PKWTT
+EMP0169,Safitri Diana,Finance,Staff,2021-03-31,7287000,PKWT
+EMP0170,Rafi Sitorus,Plant&Maint,Operator,2014-01-25,4741000,PKWTT
+EMP0171,Dacin Nababan,Haul,Operator,2016-12-27,5231000,PKWTT
+EMP0172,Virman Zulkarnain,Hauling,Operator,2020-05-12,4173000,PKWTT
+EMP0173,Rosman Rosman Salahudin,Hauling,Operator,2012-11-14,4904000,PKWT
+EMP0174,Opung Opung Manullang,Hauling,Operator,2020-01-27,4479000,PKWT
+EMP0175,Unjani Unjani Fathina,Mining Operations,Supervisor,2022-02-02,9626000,PKWTT
+EMP0176,Zulfa Riyanti,Mining Ops,Supervisor,2012-05-26,10097000,PKWT
+EMP0177,Uli Uli Mandasari,HSE,Operator,2018-08-21,5093000,PKWT
+EMP0178,Yuliana Anggraini,Finance,Staff,2021-08-27,5077000,PKWTT
+EMP0179,Sari Harini,HSE,Operator,2021-03-09,5665000,PKWTT
+EMP0180,Simbolon Kajen,HR & GA,Supervisor,2013-11-27,8371000,PKWTT
+EMP0181,Gabriella Wijayanti,Mining Operations,Staff,2019-09-15,5294000,PKWTT
+EMP0182,Darman Darman Abimanyu,Hauling,Staff,2013-06-02,7107000,PKWTT
+EMP0183,Habibi Galak,Hauling,Operator,2014-12-07,3803000,PKWTT
+EMP0184,Lala Lala Andriani,Hauling,Supervisor,2018-04-08,9112000,PKWTT
+EMP0185,Susanti Jane,Mining Operations,Operator,2023-04-03,4827000,PKWT
+EMP0186,Salahudin Estiono,Hauling,Staff,2020-01-18,5018000,PKWT
+EMP0187,Ani Ani Nathania,Hauling,Operator,2024-10-26,3736000,PKWTT
+EMP0188,Tamba Pardi,Mining Operations,Operator,2014-08-18,4702000,PKWT
+EMP0189,Maryati Cici,HR & GA,Manager,2016-07-30,23653000,PKWTT
+EMP0190,Jindra Jindra Lesmana,K3/HSE,Operator,2015-08-11,6380000,PKWTT
+EMP0191,Kusuma Yunita,mining operation,Operator,2012-10-19,4010000,PKWTT
+EMP0192,Wawan Pradana,Hauling,Operator,2020-04-16,5013000,PKWT
+EMP0193,Lanjar Lazuardi,Plant & Maintenance,Operator,2020-08-17,5259000,PKWTT
+EMP0194,Puspita Winarsih,Plant & Maintenance,Operator,2012-12-08,4661000,PKWTT
+EMP0195,Harto Maryadi,HR & GA,Staff,2020-08-18,5350000,PKWTT
+EMP0196,Wibowo Nyana,HAULING ,Superintendent,2014-09-03,17136000,PKWT
+EMP0197,Waskita Ade,Hauling,Operator,2016-01-31,4329000,PKWTT
+EMP0198,Asman Januar,HSE,Operator,2017-03-20,4829000,PKWTT
+EMP0199,Sitorus Timbul,Finance,Manager,2012-02-29,30242000,PKWTT
+EMP0200,Carla Putri,Hauling,Supervisor,2017-07-22,10277000,PKWTT
+EMP0201,Banara Banara Januar,Mining Operations,Operator,2023-01-29,3746000,PKWTT
+EMP0202,Murti Irfandi,Mining Operations,Supervisor,2016-06-07,8165000,PKWTT
+EMP0203,Lazuardi Bancar,Haul,Operator,2016-06-16,5179000,PKWTT
+EMP0204,Rahayu Talia,HSE,Operator,2013-07-01,6453000,PKWTT
+EMP0205,Safira Safira Harini,Plant & Maintenance,Operator,2023-03-02,4763000,PKWTT
+EMP0206,Ira Ira Anggraini,Plant & Maintenance,Operator,2014-10-07,4996000,PKWT
+EMP0207,Siregar Halim,Hauling,Staff,2018-10-30,6893000,PKWTT
+EMP0208,Maheswari Noviana,Maintenance,Operator,2012-10-09,4233000,PKWT
+EMP0209,Latika Ardiyanti,Haul,Supervisor,2017-07-17,10449000,PKWTT
+EMP0210,Maria Maria Harini,HAULING ,Superintendent,2014-05-04,17158000,PKWTT
+EMP0211,Uyainah Hilda,Finance,Staff,2013-03-24,6881000,PKWTT
+EMP0212,Kayla Fujiati,Finance,Supervisor,2016-09-18,10538000,PKWTT
+EMP0213,Salsabilla Michelle,Hauling,Operator,2023-07-21,4099000,PKWTT
+EMP0214,Adinata Kuswoyo,HAULING ,Operator,2016-05-03,5081000,PKWTT
+EMP0215,Jumadi Ardianto,Haul,Operator,2015-07-03,3814000,PKWTT
+EMP0216,Rahmawati Nabila,HSE,Operator,2023-09-04,5497000,PKWTT
+EMP0217,Ami Utami,Mining Operations,Operator,2012-11-02,3962000,PKWTT
+EMP0218,Widiastuti Uli,Mining Operations,Operator,2024-10-08,4423000,PKWTT
+EMP0219,Habibi Asmianto,Plant&Maint,Staff,2023-08-06,5650000,PKWTT
+EMP0220,Mandala Timbul,HSE,Supervisor,2020-11-09,11710000,PKWTT
+EMP0221,Sakura Padmasari,K3/HSE,Operator,2024-10-19,4610000,PKWTT
+EMP0222,Luthfi Luthfi Supriyanto,Plant&Maint,Operator,2018-05-01,5497000,PKWTT
+EMP0223,Abimanyu Banawa,Plant & Maintenance,Staff,2020-05-20,6710000,PKWTT
+EMP0224,Ganep Prasetya,Plant & Maintenance,Operator,2019-10-31,4531000,PKWTT
+EMP0225,Mustika Oni,Finance,Staff,2015-05-12,7136000,PKWTT
+EMP0226,Nimas Palastri,Mining Operations,Operator,2015-04-10,4520000,PKWT
+EMP0227,Retno Retno Novitasari,HR & GA,Staff,2015-12-02,6199000,PKWTT
+EMP0228,Adinata Waluyo,Plant & Maintenance,Operator,2021-12-22,5473000,PKWT
+EMP0229,Nasyidah Jelita,Mining Operations,Manager,2014-03-21,27653000,PKWTT
+EMP0230,Genta Wulandari,Plant&Maint,Staff,2012-04-28,5672000,PKWTT
+EMP0231,Bakda Thamrin,Mining Operations,Operator,2013-08-13,3832000,PKWT
+EMP0232,Gangsa Gangsa Kusumo,MINING OPS,Operator,2018-02-11,4233000,PKWT
+EMP0233,Palastri Hamima,Plant & Maintenance,Operator,2016-07-30,4115000,PKWTT
+EMP0234,Saptono Cahyadi,Finance,Staff,2017-09-05,5529000,PKWT
+EMP0235,Juwita Raina,Mining Operations,Operator,2020-07-29,3918000,PKWTT
+EMP0236,Retno Retno Azzahra,Finance,Staff,2021-07-13,7189000,PKWT
+EMP0237,Novitasari Amelia,Mining Ops,Operator,2016-11-12,5029000,PKWTT
+EMP0238,Widiastuti Kirana,Hauling,Operator,2016-09-02,4550000,PKWTT
+EMP0239,Luluh Ahmad,HR & GA,Supervisor,2017-05-16,9837000,PKWTT
+EMP0240,Bella Bella Nuraini,HR & GA,Supervisor,2022-06-26,7601000,PKWTT
+EMP0241,Agustina Agustina Kusmawati,Plant & Maintenance,Operator,2016-01-22,4463000,PKWTT
+EMP0242,Zamira Rachmawati,Plant&Maint,Operator,2024-05-22,4341000,PKWT
+EMP0243,Catur Rajasa,Mining Operations,Supervisor,2016-10-29,8123000,PKWTT
+EMP0244,Amanta Yunita,MINING OPS,Operator,2016-06-12,3809000,PKWT
+EMP0245,Saragih Asirwanda,K3/HSE,Operator,2018-06-23,5319000,PKWTT
+EMP0246,Tugiman Nanda,Hauling,Supervisor,2024-07-19,10132000,PKWT
+EMP0247,Wardaya Saptono,Hauling,Operator,2019-06-19,5157000,PKWTT
+EMP0248,Wisnu Wisnu Adriansyah,Mining Operations,Operator,2014-04-28,3944000,PKWTT
+EMP0249,Megantara Pranata,HSE,Operator,2023-09-17,5871000,PKWT
+EMP0250,Vanya Vanya Hassanah,Finance,Manager,2021-02-28,26325000,PKWTT
+EMP0251,Prabawa Budiman,Hauling,Operator,2019-10-16,5257000,PKWT
+EMP0252,Prita Prastuti,Hauling,Staff,2020-04-08,7001000,PKWT
+EMP0253,Himawan Argono,Mining Operations,Supervisor,2023-12-04,9105000,PKWTT
+EMP0254,Elisa Usamah,HR & GA,Staff,2019-11-12,5044000,PKWT
+EMP0255,Padmi Padmi Fernanda,HAULING ,Operator,2014-10-18,4712000,PKWTT
+EMP0256,Jailani Drajat,Hauling,Supervisor,2023-01-06,9910000,PKWTT
+EMP0257,Tina Zulaika,HSE,Operator,2018-03-28,5783000,PKWTT
+EMP0258,Elvina Ciaobella,HR & GA,Supervisor,2015-11-06,8552000,PKWT
+EMP0259,Hasim Hasim Mansur,Mining Operations,Supervisor,2018-10-28,7984000,PKWTT
+EMP0260,Haikal Edward,Hauling,Operator,2016-04-08,4696000,PKWT
+EMP0261,Aswani Aswani Narpati,Mining Operations,Staff,2017-05-01,5327000,PKWTT
+EMP0262,Slamet Nugraha,Plant & Maintenance,Supervisor,2018-08-21,10859000,PKWT
+EMP0263,Prastuti Agustina,Mining Operations,Operator,2019-07-15,4285000,PKWTT
+EMP0264,Paramita Paramita Uyainah,Plant & Maintenance,Operator,2017-03-21,5046000,PKWTT
+EMP0265,Melinda Nabila,Plant & Maintenance,Operator,2023-11-02,5059000,PKWTT
+EMP0266,Titi Titi Widiastuti,HSE,Operator,2021-03-23,5250000,PKWTT
+EMP0267,Himawan Himawan Arifin,HR & GA,Staff,2019-06-10,6162000,PKWT
+EMP0268,Wani Wani Wahyuni,Mining Ops,Operator,2024-04-20,3755000,PKWT
+EMP0269,Cindy Cindy Sudiati,Hauling,Superintendent,2015-02-05,15072000,PKWTT
+EMP0270,Winarsih Rahmawati,Mining Ops,Staff,2015-03-02,5167000,PKWT
+EMP0271,Febriana Yuliarti,Mining Operations,Staff,2012-04-01,4755000,PKWTT
+EMP0272,Tiara Tiara Wastuti,HSE,Operator,2019-04-11,5813000,PKWTT
+EMP0273,Elvina Rosa,Mining Operations,Operator,2015-10-15,4553000,PKWT
+EMP0274,Prayoga Prayoga Irawan,Plant & Maintenance,Operator,2020-05-01,4144000,PKWT
+EMP0275,Mumpuni Mumpuni Wasita,HAULING ,Operator,2013-04-02,4382000,PKWTT
+EMP0276,Prayoga Gantar,HRGA,Manager,2013-12-05,27790000,PKWT
+EMP0277,Saputri Agustina,HSE,Staff,2024-03-23,8519000,PKWT
+EMP0278,Samiah Widiastuti,Mining Operations,Manager,2022-01-29,28008000,PKWTT
+EMP0279,Aulia Aulia Safitri,K3/HSE,Operator,2016-02-10,5905000,PKWTT
+EMP0280,Widiastuti Ulya,Mining Operations,Operator,2014-11-13,4389000,PKWT
+EMP0281,Hardana Ramadan,Maintenance,Operator,2023-04-17,5072000,PKWT
+EMP0282,Teddy Teddy Nanda,Mining Operations,Operator,2018-08-06,4703000,PKWTT
+EMP0283,Tasnim Abiputra,HSE,Operator,2013-12-30,6254000,PKWTT
+EMP0284,Rudi Sudrajat,Mining Operations,Operator,2023-09-12,4643000,PKWT
+EMP0285,Yudhistira Harto,HR & GA,Staff,2023-02-12,6982000,PKWT
+EMP0286,Nathania Elvina,Mining Operations,Operator,2012-10-28,3783000,PKWTT
+EMP0287,Cindy Cindy Mahestri,HRGA,Staff,2013-12-04,6957000,PKWT
+EMP0288,Purnawati Janet,Hauling,Staff,2017-01-10,5379000,PKWT
+EMP0289,Laksita Cornelia,Hauling,Operator,2012-03-11,3999000,PKWTT
+EMP0290,Prakasa Himawan,Hauling,Staff,2024-04-15,6719000,PKWTT
+EMP0291,Karya Mangunsong,Maintenance,Operator,2017-11-19,4861000,PKWTT
+EMP0292,Fernanda Halima,Plant & Maintenance,Staff,2020-09-06,6655000,PKWT
+EMP0293,Edward Anggriawan,Hauling,Operator,2012-06-27,3790000,PKWTT
+EMP0294,Bahuwarna Nugroho,Mining Operations,Operator,2012-04-06,5060000,PKWTT
+EMP0295,Kusuma Kusuma Dirgantara,Hauling,Operator,2018-03-05,3886000,PKWT
+EMP0296,Omar Omar Hutasoit,Haul,Operator,2020-11-28,5066000,PKWTT
+EMP0297,Cagak Hutasoit,Mining Operations,Operator,2020-11-03,4593000,PKWT
+EMP0298,Raisa Aryanti,Hauling,Operator,2016-08-30,4650000,PKWTT
+EMP0299,Septi Aryanti,Mining Operations,Operator,2022-02-09,5086000,PKWT
+EMP0300,Eka Eka Sitompul,Mining Operations,Operator,2012-05-11,4681000,PKWTT
+EMP0301,Anggun Damayanti,Maintenance,Operator,2017-10-01,5416000,PKWT
+EMP0302,Ophelia Saraswati,Mining Ops,Supervisor,2017-06-28,10921000,PKWTT
+EMP0303,Noviana Halimah,Finance,Staff,2012-08-23,6456000,PKWTT
+EMP0304,Syahrini Syahrini Laksita,Mining Operations,Operator,2018-01-01,4180000,PKWTT
+EMP0305,Lantar Pratama,HR & GA,Supervisor,2016-04-23,8824000,PKWTT
+EMP0306,Maheswari Laras,Mining Operations,Staff,2012-12-26,7080000,PKWTT
+EMP0307,Mahfud Mahfud Sirait,Plant & Maintenance,Manager,2020-03-15,23958000,PKWT
+EMP0308,Arifin Eka,Mining Operations,Operator,2016-07-22,4084000,PKWTT
+EMP0309,Olivia Olivia Handayani,Hauling,Operator,2024-10-09,5134000,PKWTT
+EMP0310,Widiastuti Rahayu,Mining Operations,Staff,2012-11-11,6840000,PKWT
+EMP0311,Gambira Salahudin,Plant&Maint,Operator,2021-04-26,4297000,PKWTT
+EMP0312,Diah Safitri,Hauling,Operator,2017-08-31,4650000,PKWT
+EMP0313,Purwanti Salsabila,Hauling,Supervisor,2018-10-13,10474000,PKWTT
+EMP0314,Rina Andini,MINING OPS,Supervisor,2016-12-23,9396000,PKWTT
+EMP0315,Indah Indah Yuniar,Mining Operations,Operator,2021-12-31,4688000,PKWTT
+EMP0316,Adhitama Warji,Plant & Maintenance,Operator,2014-09-02,4810000,PKWT
+EMP0317,Narpati Najam,Plant&Maint,Supervisor,2015-12-28,11455000,PKWT
+EMP0318,Maheswari Puspita,mining operation,Operator,2023-10-16,5017000,PKWT
+EMP0319,Jaiman Jaiman Tamba,Hauling,Operator,2017-05-29,4455000,PKWT
+EMP0320,Usamah Dina,HSE,Operator,2023-03-11,5912000,PKWTT
+EMP0321,Wadi Najmudin,Plant & Maintenance,Staff,2015-02-26,6980000,PKWTT
+EMP0322,Sirait Cahyanto,Plant&Maint,Supervisor,2012-01-28,10545000,PKWTT
+EMP0323,Suryatmi Dinda,Hauling,Operator,2021-09-11,4788000,PKWTT
+EMP0324,Dipa Lazuardi,Finance,Staff,2017-08-18,6438000,PKWT
+EMP0325,Mahmud Salahudin,Plant & Maintenance,Operator,2018-02-11,5218000,PKWT
+EMP0326,Melinda Rachmawati,Plant & Maintenance,Operator,2024-08-30,5462000,PKWTT
+EMP0327,Sitorus Adinata,HAULING ,Staff,2013-04-09,5987000,PKWTT
+EMP0328,Kasiyah Ramadhani,Mining Operations,Operator,2017-02-12,3934000,PKWT
+EMP0329,Ananda Vera,Hauling,Staff,2016-02-05,5767000,PKWT
+EMP0330,Utami Keisha,HSE,Operator,2023-01-25,4888000,PKWTT
+EMP0331,Taufik Saputra,Plant&Maint,Supervisor,2014-12-06,10568000,PKWT
+EMP0332,Himawan Respati,Mining Operations,Operator,2018-01-27,4224000,PKWT
+EMP0333,Julia Hartati,Hauling,Operator,2018-06-09,3824000,PKWTT
+EMP0334,Kemal Kemal Sitompul,HSE,Operator,2014-04-11,6460000,PKWTT
+EMP0335,Jamal Darojat,Mining Ops,Operator,2014-04-07,4134000,PKWT
+EMP0336,Rachmawati Icha,Hauling,Operator,2012-12-16,4774000,PKWT
+EMP0337,Lazuardi Raditya,HAULING ,Staff,2014-08-20,5410000,PKWTT
+EMP0338,Yudhistira Hari,HAULING ,Operator,2017-04-23,4097000,PKWT
+EMP0339,Yulianti Latika,Mining Operations,Operator,2014-10-29,4106000,PKWTT
+EMP0340,Anjani Faizah,Mining Operations,Operator,2023-02-21,4453000,PKWT
+EMP0341,Qori Qori Zahrah,Maintenance,Staff,2017-08-06,7739000,PKWT
+EMP0342,Sartika Sartika Wulandari,Hauling,Operator,2022-09-02,3757000,PKWT
+EMP0343,Novitasari Ilsa,Maintenance,Staff,2013-05-20,5837000,PKWTT
+EMP0344,Oni Mulyani,Fin & Acc,Staff,2018-02-23,6323000,PKWTT
+EMP0345,Elvina Diana,Plant&Maint,Operator,2012-10-22,5100000,PKWT
+EMP0346,Ade Simbolon,Plant & Maintenance,Superintendent,2020-09-09,17841000,PKWT
+EMP0347,Dina Dina Azzahra,HSE,Operator,2024-07-03,6562000,PKWTT
+EMP0348,Gunarto Vega,HR & GA,Staff,2015-02-06,5712000,PKWT
+EMP0349,Aditya Ramadan,K3/HSE,Operator,2014-03-15,5663000,PKWT
+EMP0350,Cakrawala Cakrawala Mahardika,Mining Operations,Operator,2023-05-18,3605000,PKWTT
+EMP0351,Permata Uchita,HRGA,Manager,2012-06-10,21226000,PKWTT
+EMP0352,Nardi Yudhistira,Hauling,Operator,2013-02-07,4636000,PKWTT
+EMP0353,Dono Dono Faresta,Mining Ops,Operator,2016-05-16,4031000,PKWTT
+EMP0354,Baktiono Saragih,Hauling,Operator,2019-11-28,5175000,PKWT
+EMP0355,Namaga Puspita,Finance,Staff,2020-07-05,6348000,PKWTT
+EMP0356,Sidiq Santoso,Finance,Manager,2019-05-26,22914000,PKWT
+EMP0357,Zahrah Jasmin,Hauling,Staff,2018-09-08,5222000,PKWTT
+EMP0358,Purwadi Vino,Hauling,Superintendent,2020-02-01,18107000,PKWTT
+EMP0359,Hidayanto Bajragin,Mining Operations,Staff,2021-05-29,5898000,PKWTT
+EMP0360,Raina Raina Yulianti,HRGA,Staff,2012-05-28,5455000,PKWTT
+EMP0361,Ikin Ikin Waluyo,Mining Operations,Operator,2015-10-02,4725000,PKWT
+EMP0362,Bahuwirya Saragih,Haul,Operator,2014-11-22,4661000,PKWT
+EMP0363,Sabian Cagak,Plant & Maintenance,Operator,2024-11-28,5168000,PKWTT
+EMP0364,Ade Prayoga,Mining Ops,Operator,2022-08-17,4434000,PKWTT
+EMP0365,Thamrin Muhammad,Hauling,Operator,2015-04-06,4931000,PKWTT
+EMP0366,Susanti Fitriani,Plant & Maintenance,Operator,2013-09-16,5497000,PKWTT
+EMP0367,Yolanda Iriana,Plant & Maintenance,Operator,2019-11-26,4790000,PKWTT
+EMP0368,Laksmiwati Febrina,Haul,Operator,2016-07-28,5238000,PKWT
+EMP0369,Cindy Cindy Hastuti,MINING OPS,Supervisor,2024-09-13,10198000,PKWT
+EMP0370,Yahya Saptono,Plant & Maintenance,Supervisor,2019-09-08,12092000,PKWTT
+EMP0371,Opung Firmansyah,Finance,Staff,2013-04-04,6107000,PKWT
+EMP0372,Tarihoran Cahya,Mining Operations,Supervisor,2023-02-16,8398000,PKWTT
+EMP0373,Maheswari Dina,Hauling,Operator,2016-10-01,5160000,PKWT
+EMP0374,Lasmanto Lasmanto Mandala,Hauling,Operator,2017-07-10,4266000,PKWTT
+EMP0375,Puspita Yani,Mining Operations,Supervisor,2020-07-28,7871000,PKWTT
+EMP0376,Oskar Wibowo,Fin & Acc,Supervisor,2023-12-06,8545000,PKWTT
+EMP0377,Laras Laras Kahyang,Mining Operations,Operator,2022-08-10,3983000,PKWTT
+EMP0378,Febrianti Ida,Haul,Operator,2015-09-22,5136000,PKWTT
+EMP0379,Erik Perdana,Hauling,Operator,2017-10-06,4084000,PKWT
+EMP0380,Tamba Ikhsan,HSE,Operator,2015-10-03,5926000,PKWT
+EMP0381,Endah Endah Halimah,Mining Operations,Staff,2024-02-20,6107000,PKWTT
+EMP0382,Prayoga Prayoga Ramadan,Fin & Acc,Supervisor,2016-07-20,10216000,PKWTT
+EMP0383,Olga Olga Prasetya,Plant & Maintenance,Staff,2023-11-18,6434000,PKWTT
+EMP0384,Anggun Halimah,HSE,Operator,2013-04-11,5521000,PKWT
+EMP0385,Rina Rina Nurdiyanti,HSE,Operator,2015-11-09,5325000,PKWTT
+EMP0386,Laila Ananda,HSE,Operator,2023-12-21,5467000,PKWTT
+EMP0387,Agustina Lili,HR & GA,Staff,2022-08-24,5773000,PKWT
+EMP0388,Prasetya Mitra,Mining Operations,Staff,2012-02-11,6888000,PKWT
+EMP0389,Siti Siti Rachmawati,Haul,Staff,2021-06-04,5382000,PKWTT
+EMP0390,Upik Upik Jailani,Mining Operations,Staff,2024-11-11,6020000,PKWTT
+EMP0391,Ulva Melani,Mining Operations,Operator,2020-04-06,3725000,PKWTT
+EMP0392,Rahayu Rahayu Widiastuti,Plant & Maintenance,Operator,2014-08-02,4086000,PKWT
+EMP0393,Kamila Puspasari,Plant & Maintenance,Supervisor,2023-09-13,10200000,PKWTT
+EMP0394,Prasasta Anom,HAULING ,Operator,2023-11-11,5150000,PKWT
+EMP0395,Lega Lega Marpaung,Hauling,Operator,2018-12-26,4112000,PKWTT
+EMP0396,Wardaya Wardaya Syahreza,MINING OPS,Operator,2012-10-31,4116000,PKWTT
+EMP0397,Damar Damar Himawan,Mining Operations,Operator,2019-10-04,4569000,PKWTT
+EMP0398,Rahardian Caturangga,Finance,Staff,2017-03-06,6828000,PKWTT
+EMP0399,Salsabilla Gabriella,Plant & Maintenance,Operator,2020-09-09,4883000,PKWT
+EMP0400,Marpaung Bakidin,Mining Ops,Supervisor,2021-10-29,9542000,PKWTT

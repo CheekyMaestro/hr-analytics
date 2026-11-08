@@ -1,0 +1,2 @@
+# Raw CSVs must stay byte-identical across platforms (PRD §7: same seed → same bytes).
+*.csv text eol=lf

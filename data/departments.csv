@@ -1,0 +1,7 @@
+code,name,short_code,sort_order
+hauling,Hauling,HL,1
+mining_ops,Mining Operations,MO,2
+plant_maint,Plant & Maintenance,PM,3
+hse,HSE,HS,4
+hr_ga,HR & GA,HG,5
+finance,Finance,FN,6

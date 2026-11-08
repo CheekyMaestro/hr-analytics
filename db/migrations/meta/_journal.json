@@ -1,0 +1,11 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    { "idx": 0, "version": "7", "when": 1762560000000, "tag": "0001_reference", "breakpoints": true },
+    { "idx": 1, "version": "7", "when": 1762560001000, "tag": "0002_raw", "breakpoints": true },
+    { "idx": 2, "version": "7", "when": 1762560002000, "tag": "0003_dq", "breakpoints": true },
+    { "idx": 3, "version": "7", "when": 1762560003000, "tag": "0004_clean", "breakpoints": true },
+    { "idx": 4, "version": "7", "when": 1762560004000, "tag": "0005_views", "breakpoints": true }
+  ]
+}

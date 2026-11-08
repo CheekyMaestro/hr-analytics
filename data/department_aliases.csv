@@ -1,0 +1,15 @@
+alias_normalized,department_code,example_raw
+hauling,hauling,"HAULING "
+haul,hauling,Haul
+mining operations,mining_ops,Mining Operations
+mining ops,mining_ops,Mining Ops
+mining operation,mining_ops,mining operation
+plant & maintenance,plant_maint,Plant & Maintenance
+plant&maint,plant_maint,Plant&Maint
+maintenance,plant_maint,Maintenance
+hse,hse,HSE
+k3/hse,hse,K3/HSE
+hr & ga,hr_ga,HR & GA
+hrga,hr_ga,HRGA
+finance,finance,Finance
+fin & acc,finance,Fin & Acc

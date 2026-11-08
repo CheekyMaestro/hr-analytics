@@ -1,0 +1,13 @@
+{
+  "seed": 20251231,
+  "files": {
+    "E_site_employees.csv": {
+      "rows": 400,
+      "sha256": "3db4b4e2ccd7e8e805b78e1f2f4238d375ce2a56107df9212f25b452336a8ba7"
+    },
+    "E_site_monthly.csv": {
+      "rows": 4514,
+      "sha256": "8a802222d69f722c38a4aa4fd5618403032e48ff11788d80be0786485753e520"
+    }
+  }
+}
